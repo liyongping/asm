@@ -1,7 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual Studio 2008
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "win_UnAsm", "win_UnAsm.vcproj", "{36329060-BD68-48D5-90B7-D94FF72AF421}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "func", "func\func.vcproj", "{36329060-BD68-48D5-90B7-D94FF72AF421}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "if_else_for_while", "if_else_for_while\if_else_for_while.vcproj", "{78C2D902-9457-4E7A-9A3D-6BFD774CEEF0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "struct_enum_array", "struct_enum_array\struct_enum_array.vcproj", "{741673F4-EBEB-42BD-9CD7-F9433D1418AA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,6 +17,14 @@ Global
 		{36329060-BD68-48D5-90B7-D94FF72AF421}.Debug|Win32.Build.0 = Debug|Win32
 		{36329060-BD68-48D5-90B7-D94FF72AF421}.Release|Win32.ActiveCfg = Release|Win32
 		{36329060-BD68-48D5-90B7-D94FF72AF421}.Release|Win32.Build.0 = Release|Win32
+		{78C2D902-9457-4E7A-9A3D-6BFD774CEEF0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{78C2D902-9457-4E7A-9A3D-6BFD774CEEF0}.Debug|Win32.Build.0 = Debug|Win32
+		{78C2D902-9457-4E7A-9A3D-6BFD774CEEF0}.Release|Win32.ActiveCfg = Release|Win32
+		{78C2D902-9457-4E7A-9A3D-6BFD774CEEF0}.Release|Win32.Build.0 = Release|Win32
+		{741673F4-EBEB-42BD-9CD7-F9433D1418AA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{741673F4-EBEB-42BD-9CD7-F9433D1418AA}.Debug|Win32.Build.0 = Debug|Win32
+		{741673F4-EBEB-42BD-9CD7-F9433D1418AA}.Release|Win32.ActiveCfg = Release|Win32
+		{741673F4-EBEB-42BD-9CD7-F9433D1418AA}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
